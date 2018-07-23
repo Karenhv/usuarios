@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+	<usuario>
+		<usuarioid>1</usuarioid>
+		<nombre>Karen</nombre>
+		<twitter>karen39</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>2</usuarioid>
+		<nombre>José</nombre>
+		<twitter>joseLujan</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>3</usuarioid>
+		<nombre>Alberto Hatake</nombre>
+		<twitter>beto</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>4</usuarioid>
+		<nombre>Genaro</nombre>
+		<twitter>genarin</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>5</usuarioid>
+		<nombre>Ruben</nombre>
+		<twitter>wedo</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>6</usuarioid>
+		<nombre>Jessy</nombre>
+		<twitter>jessikita15</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>7</usuarioid>
+		<nombre>Norma</nombre>
+		<twitter>mom</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>8</usuarioid>
+		<nombre>Joyce</nombre>
+		<twitter>joy</twitter>
+	</usuario>
+</usuarios>
