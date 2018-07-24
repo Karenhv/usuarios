@@ -1,0 +1,1 @@
+[{"usuarioid":1,"nombre":"Karen","twitter":"josedlujan"},{"usuarioid":2,"nombre":"Pepito","twitter":"pepito"},{"usuarioid":3,"nombre":"Miguelito","twitter":"miguelito"},{"usuarioid":4,"nombre":"Alberto","twitter":"alberto"},{"usuarioid":5,"nombre":"Jonas","twitter":"jonas"},{"usuarioid":6,"nombre":"Enrique","twitter":"enrique"},{"usuarioid":7,"nombre":"Luis","twitter":"luis"}]
